@@ -1,277 +1,283 @@
-#slide-out{
-  background-color: #F5F4F4;
+#slide-out {
+    background-color: #F5F4F4;
 }
 
-.background{
-padding-left: 20px;
-padding-top: 20px;
-background-color: #fb5404;
+.background {
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: #fb5404;
 }
 
 .user-view {
-border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #fff;
 }
 
-.user-view h5{
-padding-left: 45px;
-padding-bottom: 15px; 
-color:#fff;
+.user-view h5 {
+    padding-left: 45px;
+    padding-bottom: 15px;
+    color: #fff;
 }
 
-#slide-out .sidenav-datos{
-position: relative;
+#slide-out .sidenav-datos {
+    position: relative;
 }
 
-#slide-out .sidenav-datos span{
-position: absolute;
-top: 18px;
-left: 87px;
+#slide-out .sidenav-datos span {
+    position: absolute;
+    top: 18px;
+    left: 87px;
 }
 
-#slide-out a, #slide-out span , #slide-out i{
-color:#533869;
+#slide-out a,
+#slide-out span,
+#slide-out i {
+    color: #533869;
 }
 
-.collapsible{
-color: #533869;
+.collapsible {
+    color: #533869;
 }
 
-.collapsible .collapsible-header{
-padding-left: 34px;
+.collapsible .collapsible-header {
+    padding-left: 34px;
 }
 
-.collapsible .collapsible-body{
-background-color: #F5F4F4;
-padding-left: 60px;
+.collapsible .collapsible-body {
+    background-color: #F5F4F4;
+    padding-left: 60px;
 }
 
-.collapsible .collapsible-body a{
-color: #fb5404 !important;
+.collapsible .collapsible-body a {
+    color: #fb5404 !important;
 }
 
-.sidenav .user-view{
-padding: 12px 32px 0 !important;
+.sidenav .user-view {
+    padding: 12px 32px 0 !important;
 }
 
-.top-nav{
-height: 55px;
-background-color: #fb5404;
+.top-nav {
+    height: 55px;
+    background-color: #fb5404;
 }
 
-.top-nav a{
-color: #fff;
-
+.top-nav a {
+    color: #fff;
 }
 
-.top-nav a i{
-margin-top: 13px;
-margin-left: 10px;
+.top-nav a i {
+    margin-top: 13px;
+    margin-left: 10px;
 }
 
-.cronograma{
-font-size: 11px;
-font-weight: 600;
+.cronograma {
+    font-size: 11px;
+    font-weight: 600;
 }
 
-.fecha{
-font-size: 12px;
-font-weight: bold;
-background-color: #fff;
+.fecha {
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #fff;
 }
 
-.cronograma .col div{
-border:1px solid #eaeaea;
+.cronograma .col div {
+    border: 1px solid #eaeaea;
 }
 
-.cronograma .l1{
+.cronograma .l1 {
     padding: 0rem !important;
 }
 
-.cronograma .lunes div{
-height: 50.3px;
-padding-top: 15px;
-text-align: center;
-margin: 2px 2px; 
-border-radius: 4px;
+.cronograma .lunes div {
+    height: 50.3px;
+    padding-top: 15px;
+    text-align: center;
+    margin: 2px 2px;
+    border-radius: 4px;
 }
 
-.cronograma .lunes .fecha{
-height: 30px;
-padding-top: 5px;
+.cronograma .lunes .fecha {
+    height: 30px;
+    padding-top: 5px;
 }
 
-.cronograma .martes div{
-height: 50.3px;
-padding-top: 15px;
-text-align: center;
-margin: 2px 2px; 
-border-radius: 4px;
+.cronograma .martes div {
+    height: 50.3px;
+    padding-top: 15px;
+    text-align: center;
+    margin: 2px 2px;
+    border-radius: 4px;
 }
 
-.cronograma .martes .fecha{
-height: 30px;
-padding-top: 5px;
-}
-.cronograma .miercoles div{
-height: 45.7px;
-padding-top: 0px;
-text-align: center;
-margin: 2px 2px; 
-border-radius: 4px;
+.cronograma .martes .fecha {
+    height: 30px;
+    padding-top: 5px;
 }
 
-.cronograma .miercoles .fecha{
-height: 30px;
-padding-top: 5px;
+.cronograma .miercoles div {
+    height: 45.7px;
+    padding-top: 0px;
+    text-align: center;
+    margin: 2px 2px;
+    border-radius: 4px;
 }
 
-.cronograma .jueves div{
-height: 45.7px;
-padding-top: 0px;
-text-align: center;
-margin: 2px 2px; 
-border-radius: 4px;
+.cronograma .miercoles .fecha {
+    height: 30px;
+    padding-top: 5px;
 }
 
-.cronograma .jueves .fecha{
-height: 30px;
-padding-top: 5px;
+.cronograma .jueves div {
+    height: 45.7px;
+    padding-top: 0px;
+    text-align: center;
+    margin: 2px 2px;
+    border-radius: 4px;
 }
 
-.cronograma .viernes div{
-height: 45.7px;
-padding-top: 0px;
-text-align: center;
-margin: 2px 2px; 
-border-radius: 4px;
+.cronograma .jueves .fecha {
+    height: 30px;
+    padding-top: 5px;
 }
 
-.cronograma .viernes .fecha{
-height: 30px;
-padding-top: 5px;
+.cronograma .viernes div {
+    height: 45.7px;
+    padding-top: 0px;
+    text-align: center;
+    margin: 2px 2px;
+    border-radius: 4px;
 }
 
-.cronograma .sabado div{
-height: 55.8px;
-padding-top: 5px;
-text-align: center;
-margin: 2px 2px; 
-border-radius: 4px;
+.cronograma .viernes .fecha {
+    height: 30px;
+    padding-top: 5px;
 }
 
-.cronograma .sabado .fecha{
-height: 30px;
-padding-top: 5px;
+.cronograma .sabado div {
+    height: 55.8px;
+    padding-top: 5px;
+    text-align: center;
+    margin: 2px 2px;
+    border-radius: 4px;
 }
 
-.cronograma .domingo div{
-height: 76.4px;
-padding-top: 20px;
-text-align: center;
-margin: 2px 2px; 
-border-radius: 4px;
+.cronograma .sabado .fecha {
+    height: 30px;
+    padding-top: 5px;
 }
 
-.cronograma .domingo .fecha{
-height: 30px;
-padding-top: 5px;
+.cronograma .domingo div {
+    height: 76.4px;
+    padding-top: 20px;
+    text-align: center;
+    margin: 2px 2px;
+    border-radius: 4px;
 }
 
-.cronograma  div{
-position: relative;
+.cronograma .domingo .fecha {
+    height: 30px;
+    padding-top: 5px;
 }
 
-.cronograma  div a{
-width: 15px !important;
-height: 15px !important;
-line-height: 15px !important;
-position: absolute;
-bottom: 3px;
-right: 3px;
-background-color: #fff !important;
+.cronograma div {
+    position: relative;
 }
 
-.cronograma  div a i{
-font-size: 1rem !important;
-line-height: 17px !important;
-color: #333 !important;
+.cronograma div a {
+    width: 15px !important;
+    height: 15px !important;
+    line-height: 15px !important;
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+    background-color: #fff !important;
 }
 
-.sinRecargo{
-background-color: #4CB6BE;
+.cronograma div a i {
+    font-size: 1rem !important;
+    line-height: 17px !important;
+    color: #333 !important;
 }
 
-.cincoPorciento{
-background-color: #E9C814;
+.sinRecargo {
+    background-color: #4CB6BE;
 }
 
-.quincePorciento{
-background-color: #FF2768;
+.cincoPorciento {
+    background-color: #E9C814;
 }
 
-.deshabilitado{
-background-color: #ada7a7;
+.quincePorciento {
+    background-color: #FF2768;
 }
 
-.top-nav-modal{
-  padding: 16px;
-  color: #fff;
-  font-size: 16px;
-  height: 55px;
-  background-color: #fb5404;
-  font-weight: bold;
+.deshabilitado {
+    background-color: #ada7a7;
+}
+
+.top-nav-modal {
+    padding: 16px;
+    color: #fff;
+    font-size: 16px;
+    height: 55px;
+    background-color: #fb5404;
+    font-weight: bold;
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 .display-none {
-  display: none;
+    display: none;
 }
 
 .display-block {
-  display: block;
+    display: block;
 }
 
-@media (max-width: 600px){
-.cronograma{
-  font-size: 14px;
-  font-weight: 500;
-}
-}
-
-@media (max-width: 900px){
-.cronograma{
-  font-size: 12px;
-  font-weight: 700;
-}
+@media (max-width: 600px) {
+    .cronograma {
+        font-size: 14px;
+        font-weight: 500;
+    }
 }
 
-.fondo-home{
-  background-image: url(http://www.comercial.americatv.com.pe/images/fondo2.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0.8;
-}
-.titulo{
-  color: #fff;
-  text-align: left;
-}
-.titulo::after{
-  content: "";
-  width: 40px;
-  height: 4px;
-  background-color: #fb5404;
-  display: block;  
+@media (max-width: 900px) {
+    .cronograma {
+        font-size: 12px;
+        font-weight: 700;
+    }
 }
 
-.leyenda ul li{
-  display: inline-block;
+.fondo-home {
+    background-image: url(http://www.comercial.americatv.com.pe/images/fondo2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    min-height: 100vh;
 }
-.leyenda ul li::before{
-  content: " ";
+
+.titulo {
+    color: #fff;
+    text-align: left;
+}
+
+.titulo::after {
+    content: "";
+    width: 40px;
+    height: 4px;
+    background-color: #fb5404;
+    display: block;
+}
+
+.leyenda ul li {
+    display: inline-block;
+}
+
+.leyenda ul li::before {
+    content: " ";
     width: 15px;
     height: 15px;
     display: inline-block;
@@ -280,24 +286,29 @@ body {
     position: relative;
     top: 2px;
 }
-.leyenda ul li:nth-child(1)::before{
-  background-color: #FF2768;
+
+.leyenda ul li:nth-child(1)::before {
+    background-color: #FF2768;
 }
-.leyenda ul li:nth-child(2)::before{
-  background-color: #4CB6BE;
+
+.leyenda ul li:nth-child(2)::before {
+    background-color: #4CB6BE;
 }
-.leyenda ul li:nth-child(3)::before{
-  background-color: #E9C814;
+
+.leyenda ul li:nth-child(3)::before {
+    background-color: #E9C814;
 }
-.leyenda ul li:nth-child(4)::before{
-  background-color: #ada7a7;
+
+.leyenda ul li:nth-child(4)::before {
+    background-color: #ada7a7;
 }
-.leyenda ul{
-  text-align: left;
-  padding-top: 11px;
-  color: #fff;
+
+.leyenda ul {
+    text-align: left;
+    padding-top: 11px;
+    color: #fff;
 }
 
 select {
-  margin-left: 38px;
+    margin-left: 38px;
 }
